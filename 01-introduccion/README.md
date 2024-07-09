@@ -69,3 +69,5 @@ de otro, y así podemos combinar los componentes para resolver problemas
 más complicados.
 
 <!-- Imagen de componentes conectados -->
+
+[Volver »](../README.md)
