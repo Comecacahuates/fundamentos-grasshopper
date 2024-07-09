@@ -35,3 +35,34 @@ De manera abstracta, podemos entender un algoritmo como una caja que recibe
 datos por un lado, los procesa y nos entrega nuevos datos por el otro.
 
 ![Algoritmo](./figuras/01-algoritmo.png)
+
+## Algoritmos en Grasshopper
+
+Históricamente, los algoritmos se han implementado utilizando lenguajes de
+programación en formato de texto, pero Grasshopper nos proporciona una interfaz
+gráfica para facilitarnos enormemente este trabajo. Además, Grasshopper se
+encarga de abstraer todas las matemáticas duras que hay detrás de la geometría
+computacional por nosotros.
+
+Grasshopper nos brinda herramientas para resolver problemas como
+
+- calcular distancia entre puntos
+- encontrar el punto más cercano a una curva
+- proyectar una curva en un plano
+- ordenar una lista de puntos
+- obtener un punto sobre una superficie
+- dividir una curva en segmentos iguales
+- crear planos perpendiculares a una curva
+- construir una esfera
+- ...
+
+Cada componente en Grasshopper se encarga de resolver uno de estos problemas.
+Una vez que el componente está en el lienzo, nosotros le conectamos del lado
+izquierdo los datos que necesita y nos entrega del lado derecho el resultado.
+
+<!-- Imagen de componente -->
+
+Combinando todas estas operanciones con cierta lógica, podremos crear
+algoritmos muy complejos que nos darán como resultado datos (números y objetos
+geométricos) para modelos 3D, análisis, optimizaciones, costos,
+fabricación digital, etc.
