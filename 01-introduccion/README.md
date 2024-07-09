@@ -70,4 +70,4 @@ más complicados.
 
 <!-- Imagen de componentes conectados -->
 
-[Volver »](../README.md)
+[Volver »](..)
