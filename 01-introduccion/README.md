@@ -41,8 +41,8 @@ datos por un lado, los procesa y nos entrega nuevos datos por el otro.
 Históricamente, los algoritmos se han implementado utilizando lenguajes de
 programación en formato de texto, pero Grasshopper nos proporciona una interfaz
 gráfica para facilitarnos enormemente este trabajo. Además, Grasshopper se
-encarga de abstraer todas las matemáticas duras que hay detrás de la geometría
-computacional por nosotros.
+encarga de abstraer todas las matemáticas por nosotros, por lo que solo
+tenemos que ocuparnos de la geometría del problema que queremos resolver.
 
 Grasshopper nos brinda herramientas para resolver problemas como
 
@@ -56,13 +56,16 @@ Grasshopper nos brinda herramientas para resolver problemas como
 - construir una esfera
 - ...
 
-Cada componente en Grasshopper se encarga de resolver uno de estos problemas.
-Una vez que el componente está en el lienzo, nosotros le conectamos del lado
-izquierdo los datos que necesita y nos entrega del lado derecho el resultado.
+y cada componente se encarga de resolver uno de estos problemas.
+
+Para invocar un componente, lo tenemos que traer al lienzo, le conectamos
+del lado izquierdo los datos que necesita (datos de entrada)
+y nos entrega del lado derecho el resultado (datos de salida).
 
 <!-- Imagen de componente -->
 
-Combinando todas estas operanciones con cierta lógica, podremos crear
-algoritmos muy complejos que nos darán como resultado datos (números y objetos
-geométricos) para modelos 3D, análisis, optimizaciones, costos,
-fabricación digital, etc.
+Los datos de salida de un componente se pueden usar como datos de entrada
+de otro, y así podemos combinar los componentes para resolver problemas
+más complicados.
+
+<!-- Imagen de componentes conectados -->
