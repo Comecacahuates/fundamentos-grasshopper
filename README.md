@@ -6,7 +6,7 @@ El objetivo es conocer la interfaz gráfica de Rhino y Grasshopper,
 así como entender las diferencias entre el flujo de trabajo entre ambos
 y las ventajas de un sobre otro.
 
-[Ir al módulo](./01-introduccion/README.md)
+[Ir al módulo](./01-introduccion)
 
 ## 2. Puntos, vectores y planos
 
