@@ -3,11 +3,11 @@
 Existen tres operadores que podemos usar para formar condiciones más complejas
 combinando condiciones simples. Algunos ejemplos de estas condiciones son:
 
-- ¿La distancia entre el $P_1$ y el origen es menor a 10 **y**
+- ¿La distancia entre el $P$ y el origen es menor a 10 **y**
   su coordenada $x$ es positiva?
-- ¿El punto $P_1$ está adentro de la curva $C_1$ **o**
+- ¿El punto $P$ está adentro de la curva $C_1$ **o**
   adentro de la curva $C_2$?
-- ¿El plano $Pln_1$ **no** intersecta a la superficie $S_1$?
+- ¿El plano $Pln$ **no** intersecta a la superficie $S$?
 
 ## Conjunción
 
@@ -51,9 +51,29 @@ $$negación = \textbf{NO} condición$$
 
 ## Ejemplo
 
-> ¿La distancia del punto $P_1$ al origen es mayor a 10
-> **y** su coordenada $x$ es positiva,
-> **o** el punto $P_1$ **no** está adentro de la curva $C_1$?
+Tenemos la siguiente condición:
+
+> ¿La distancia del punto $P$ al origen es mayor a 10
+> y su coordenada $x$ es positiva,
+> o está afuera de la curva $C$?
+
+En este caso, conviene reescribirla para poder ver explícitamente
+cuáles son las condiciones de las que se forma e identificar
+qué operadores lógicos intervienen.
+
+> ¿La distancia del punto $P$ al origen es mayor a 10
+> **Y** la coordenada $x$ del punto $P$ es positiva,
+> **O** el punto $P$ está afuera de la curva $C$?
+
+En algunos casos, hay negaciones ocultas, así que también es conveniente
+ubicarlas y expresarlas explícitamente.
+
+> ¿La distancia del punto $P$ al origen es mayor a 10
+> **Y** la coordenada $x$ del punto $P$ es positiva,
+> **O** el punto $P$ **NO** está adentro de la curva $C$?
+
+Después de reescribir la condición, podemos convertirla en una expresión
+que se puede implementar en Grasshopper.
 
 $condición_1 =$ la distancia del punto $P_1$ al origen es mayor a $10$
 
