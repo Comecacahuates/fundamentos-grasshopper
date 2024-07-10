@@ -15,13 +15,13 @@
 7. Dado un punto, obtener sus coordenadas cartesianas
 
 8. Dado un punto y una distancia,
-   crear otro punto ubicado a esa distancia del punto en la dirección de _Y_
+   crear otro punto ubicado a esa distancia del punto en la dirección de $Y$
 
 9. Dada una curva no cerrada,
-   obtener la diferencia entre las coordenadas _z_ de sus extremos
+   obtener la diferencia entre las coordenadas $z$ de sus extremos
 
 10. Dado un punto,
-    crear un punto que corresponda a su reflejo respecto al eje _X_
+    crear un punto que corresponda a su reflejo respecto al eje $X$
 
 11. Dada una curva cerrada y un punto,
     verificar si el punto está dentro de la curva
