@@ -17,9 +17,17 @@ También podemos proyectar geometría sobre un plano.
 
 [Ejemplo: 04-proyectar.gh](./04-proyectar.gh)
 
+Podemos obtener intersecciones de objetos con un plano.
+
+[Ejemplo: 05-intersectar.gh](./05-intersectar.gh)
+
 ## Propiedades
 
 - Origen
 - Vector del eje $X$
 - Vector del eje $Y$
 - Vector del eje $Z$
+
+[Ejercicios »](./ejercicios)
+
+[Volver »](..)
