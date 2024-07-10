@@ -28,7 +28,8 @@ tan complicadas como necesitemos.
 Implementar expresiones complejas solo con los componentes de los operadores
 a veces nos complica el trabajo. Grasshopper nos permite escribir expresiones
 en forma de texto y evaluarlas con los valores que le proporcionemos.
-Sin embargo, hay que ser cuidadosos con la sintaxis de las expresiones
+Sin embargo, hay que ser cuidadosos con la sintaxis de las expresiones,
+la precedencia de los operadores y el uso de paréntesis
 a la hora de escribir las expresiones.
 
 [Ejercicios »](./ejercicios)
