@@ -10,4 +10,6 @@
 4. Dado un plano, crear in círculo en él tal que su radio sea
    igual a la distancia entre el origen del plano y el origen universal.
 
+5. Dado un plano y un punto, obtener la distancia entre ambos.
+
 [Volver »](..)
