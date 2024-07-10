@@ -8,4 +8,6 @@ podemos definir en Grasshopper para convertir datos de entrada en datos
 
 [Lección 2: Condiciones](./02-condiciones)
 
+[Lección 3: Operadores lógicos](./03-operadores-logicos)
+
 [Volver »](..)
