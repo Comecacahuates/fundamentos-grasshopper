@@ -1,0 +1,14 @@
+# Planos
+
+Además del plano $XY$ universal, nosotros podemos crear planos con un origen
+y una orientación según nos convenga.
+
+[Ejemplo: 01-plano.gh](./01-plano.gh)
+
+Podemos usar planos como referencia para la creación de objetos geométricos.
+
+[Ejemplo: 02-planos-de-construccion.gh](./02-planos-de-construccion.gh)
+
+Los planos pueden servir para para reorientar y reubicar objetos ya creados.
+
+[Ejemplo: 02-reorientar.gh](./02-reorientar.gh)
