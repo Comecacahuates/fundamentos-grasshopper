@@ -6,4 +6,6 @@ podemos definir en Grasshopper para convertir datos de entrada en datos
 
 [Lección 1: Operadores y expresiones](./01-operadores-y-expresiones)
 
+[Lección 2: Condiciones](./02-condiciones)
+
 [Volver »](..)
