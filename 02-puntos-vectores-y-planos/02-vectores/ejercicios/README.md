@@ -12,7 +12,8 @@
 
 6. Dados dos vectores, obtener un vector perpendicular a ambos.
 
-7. Dado un vector y un punto, mover el punto con el vector.
+7. Dado un punto y una distancia,
+   mover el punto a dicha distancia en la dirección $X$
 
 8. Dado un vector y una longitud,
    crear un vector con la misma dirección pero con la longitud proporcionada.
