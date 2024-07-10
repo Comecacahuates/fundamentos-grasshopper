@@ -19,6 +19,6 @@
    crear un vector con la misma dirección
    pero con la longitud proporcionada.
 
-9. Dado un vector y una curva, extruir la curva a lo largo del vector.
+9. Dada una curva y un vector, extruir la curva a lo largo del vector.
 
 [Volver »](..)
