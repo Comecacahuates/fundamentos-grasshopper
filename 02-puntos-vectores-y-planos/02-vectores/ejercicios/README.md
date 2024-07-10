@@ -13,10 +13,11 @@
 6. Dados dos vectores, obtener un vector perpendicular a ambos.
 
 7. Dado un punto y una distancia,
-   mover el punto a dicha distancia en la dirección $X$
+   mover el punto a dicha distancia en la dirección $X$.
 
 8. Dado un vector y una longitud,
-   crear un vector con la misma dirección pero con la longitud proporcionada.
+   crear un vector con la misma dirección
+   pero con la longitud proporcionada.
 
 9. Dado un vector y una curva, extruir la curva a lo largo del vector.
 
