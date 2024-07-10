@@ -1,6 +1,6 @@
 # Ejercicios de vectores
 
-1. Dadas las componentes _x_, _y_ y _z_ de un vector, crear un vector.
+1. Dadas las componentes _x_, _y_ y _z_, crear un vector.
 
 2. Dado un vector, crear el vector inverso.
 

@@ -1,21 +1,22 @@
 # Vectores
 
-Un vector indica una dirección y una magnitud. De manera similar al punto,
-un vector tiene tres componentes, una por cada eje del sistema de coordenadas.
-Sin embargo, cada uno nos dan información diferente.
+Un vector indica una dirección y una magnitud, y tiene tres componentes,
+una por cada eje del sistema de coordenadas.
 
 $$\mathbf{v} = \langle x, y, z \rangle$$
 
 [Ejemplo: 01-vector.gh](./01-vector.gh)
 
-Mientras un punto nos indica una posición fija respecto al origen,
+A pesar de que su definición es parecida a la de un punto, son tipos de datos
+diferentes. Mientras un punto nos indica una posición fija respecto al origen,
 un vector no está asociado con ninguna posición en particular;
 puede tener efecto en cualquier punto.
 
 [Ejemplo: 02-vectores.gh](./02-vectores.gh)
 
-La suma de dos vectores da como resultado un nuevo vector cuyas componentes
-son la suma de las componentes de los vectores sumados.
+A diferencia de los puntos, los vectores se pueden utilizar en operaciones
+matemáticas. La suma de dos vectores da como resultado un nuevo vector
+cuyas componentes son la suma de las componentes de los vectores sumados.
 
 $$\mathbf{v} = \mathbf{v_1} + \mathbf{v_2} = \langle x_1 + x_2, y_1 + y_2, z_1 + z_2 \rangle$$
 
@@ -30,13 +31,22 @@ $$\mathbf{v} = a \mathbf{v_1} = \langle a x_1, a y_1, a z_1 \rangle$$
 
 [Ejemplo: 04-multiplicacion-escalar.gh](./04-multiplicacion-escalar.gh)
 
+Se puede calcular el ángulo entre dos vectores.
+
+[Ejemplo: 05-angulo.gh](./05-angulo.gh)
+
+Si tenemos dos vectores no paralelos, podemos obtener un vector perpendicular
+a ambos.
+
+[Ejemplo: 06-perpendicular.gh](./06-perpendicular.gh)
+
 ## Propiedades
 
 - Dirección
 - Magnitud, módulo o longitud
-- Componente _x_
-- Componente _y_
-- Componente _z_
+- Componente $x$
+- Componente $y$
+- Componente $z$
 
 ## Operaciones con vectores
 
@@ -45,5 +55,7 @@ $$\mathbf{v} = a \mathbf{v_1} = \langle a x_1, a y_1, a z_1 \rangle$$
 - Producto punto
 - Producto cruz
 - Ángulo entre dos vectores
+
+[Ejercicios »](./ejercicios)
 
 [Volver »](..)
