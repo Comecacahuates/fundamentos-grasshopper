@@ -7,6 +7,8 @@ Un sistema de coordenadas es un sistema de referencia que nos permite
 representar un punto utilizando números. Tiene un origen, que es el punto
 de referencia, y tres ejes ortogonales entre sí, _X_, _Y_ y _Z_.
 
+$$P = (x, y, z)$$
+
 ## Coordenadas cartesianas
 
 - _x_: distancia al eje _X_
