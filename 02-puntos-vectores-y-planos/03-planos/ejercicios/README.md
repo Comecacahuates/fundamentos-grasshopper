@@ -12,4 +12,6 @@
 
 5. Dado un plano y un punto, obtener la distancia entre ambos.
 
+6. Dado un plano y una distancia, crear un plano paralelo.
+
 [Volver »](..)
