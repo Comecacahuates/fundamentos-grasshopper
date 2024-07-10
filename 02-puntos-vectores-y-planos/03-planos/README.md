@@ -11,4 +11,15 @@ Podemos usar planos como referencia para la creación de objetos geométricos.
 
 Los planos pueden servir para para reorientar y reubicar objetos ya creados.
 
-[Ejemplo: 02-reorientar.gh](./02-reorientar.gh)
+[Ejemplo: 03-reorientar.gh](./03-reorientar.gh)
+
+También podemos proyectar geometría sobre un plano.
+
+[Ejemplo: 04-proyectar.gh](./04-proyectar.gh)
+
+## Propiedades
+
+- Origen
+- Vector del eje $X$
+- Vector del eje $Y$
+- Vector del eje $Z$
