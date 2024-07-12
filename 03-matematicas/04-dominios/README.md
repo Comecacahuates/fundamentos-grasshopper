@@ -20,6 +20,17 @@ el dominio de origen.
 
 [Ejemplo: 01-remapear.gh](./01-remapear.gh)
 
+## Dominio 2D
+
+Un dominio 2D es un dominio que tiene dos componentes, una llamada $U$
+y otra llamada $V$. Lo podemos imaginar como un rectángulo cuyos límites
+en el eje $X$ representan el diminio en $U$, y cuyos límites en el eje $Y$
+representan el dominio en $V$.
+
+![Algoritmo](./figuras/02-dominio-2d.png)
+
+[Ejemplo: 01-remapear.gh](./02-dominio-2d.gh)
+
 [Ejercicios »](./ejercicios)
 
 [Volver »](..)
