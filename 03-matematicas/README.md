@@ -10,4 +10,6 @@ podemos definir en Grasshopper para convertir datos de entrada en datos
 
 [Lección 3: Operadores lógicos](./03-operadores-logicos)
 
+[Lección 4: Dominios](./04-dominios)
+
 [Volver »](..)
