@@ -6,4 +6,6 @@ geométricos.
 
 [Lección 1: Definición de lista »](./01-definicion)
 
+[Lección 2: Creación de listas »](./02-creacion)
+
 [Volver »](..)
