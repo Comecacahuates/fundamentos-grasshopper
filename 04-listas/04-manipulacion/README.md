@@ -5,7 +5,7 @@ necesitamos o se encuentran repartidos entre varias listas.
 Para estos casos, Grasshopper nos proporciona diversas operaciones para
 extraer y reorganizar elementos de listas.
 
-## Ordenamiento
+## Ordenar
 
 Para ordenar los elementos de una lista, necesitamos definir un criterio
 para compararlos. Comparar dos números es trivial, pero no dos puntos
@@ -16,9 +16,9 @@ el valor numérico que se usa para determinar el orden, también llamado _clave_
 sería la distancia. Si queremos ordenar curvas según su longitud, la clave
 sería la longitud.
 
-![Ordenamiento](./figuras/01-ordenamiento.png)
+![Ordenar](./figuras/01-ordenar.png)
 
-[Ejemplo: 01-ordenamiento.gh](./01-ordenamiento.gh)
+[Ejemplo: 01-ordenar.gh](./01-ordenar.gh)
 
 ## Insertar elementos
 
@@ -45,6 +45,14 @@ en otra posición.
 ![Recorrer lista](./figuras/04-recorrer.png)
 
 [Ejemplo: 04-recorrer.gh](./04-recorrer.gh)
+
+## Dividir listas
+
+Si necesitamos dividir una lista en dos, solo necesitamos indicar el índice
+
+![Dividir lista](./figuras/05-dividir.png)
+
+[Ejemplo: 05-dividir.gh](./05-dividir.gh)
 
 [Ejercicios »](./ejercicios)
 
