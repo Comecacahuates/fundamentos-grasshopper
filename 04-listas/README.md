@@ -10,4 +10,6 @@ geométricos.
 
 [Lección 3: Filtración de listas »](./03-filtracion)
 
+[Lección 4: Manipulación de listas »](./04-manipulacion)
+
 [Volver »](..)
