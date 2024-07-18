@@ -29,6 +29,14 @@ el que queremos que queden.
 
 [Ejemplo: 02-insertar.gh](./02-insertar.gh)
 
+## Partir listas
+
+De una lista, podemos extraer particiones o secciones de tamaño fijo.
+
+![Particiones](./figuras/03-particiones.png)
+
+[Ejemplo: 03-particiones.gh](./03-particiones.gh)
+
 [Ejercicios »](./ejercicios)
 
 [Volver »](..)
