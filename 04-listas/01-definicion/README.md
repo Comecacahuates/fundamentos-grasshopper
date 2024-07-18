@@ -11,9 +11,15 @@ el del segundo es $1$, el del tercero es $2$, y así sucesivamente.
 
 Podemos obtener uno o más elementos de una lista si conocemos sus índices.
 
-![Extraer elementoa](./figuras/02-extraer-elementos.png)
+![Extraer elementos](./figuras/02-extraer-elementos.png)
 
 [Ejemplo: 02-extraer-elementos.gh](./02-extraer-elementos.gh)
+
+También podemos obtener la longitud de una lista.
+
+![Longitud de lista](./figuras/03-longitud.png)
+
+[Ejemplo: 03-longitud.gh](./03-longitud.gh)
 
 [Ejercicios »](./ejercicios)
 
