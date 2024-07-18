@@ -37,6 +37,15 @@ De una lista, podemos extraer particiones o secciones de tamaño fijo.
 
 [Ejemplo: 03-particiones.gh](./03-particiones.gh)
 
+## Recorrer listas
+
+Podemos hacer que el inicio de una lista sea un elemento que está
+en otra posición.
+
+![Recorrer lista](./figuras/04-recorrer.png)
+
+[Ejemplo: 04-recorrer.gh](./04-recorrer.gh)
+
 [Ejercicios »](./ejercicios)
 
 [Volver »](..)
