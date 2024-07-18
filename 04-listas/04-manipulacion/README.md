@@ -54,6 +54,15 @@ Si necesitamos dividir una lista en dos, solo necesitamos indicar el índice
 
 [Ejemplo: 05-dividir.gh](./05-dividir.gh)
 
+## Extraer sublista
+
+Podemos extraer una porción de la lista si contamos con el rango de índices
+de los elementos que necesitamos.
+
+![Sublista](./figuras/06-sublista.png)
+
+[Ejemplo: 06-sublista.gh](./06-sublista.gh)
+
 [Ejercicios »](./ejercicios)
 
 [Volver »](..)
