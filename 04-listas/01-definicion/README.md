@@ -9,6 +9,12 @@ el del segundo es $1$, el del tercero es $2$, y así sucesivamente.
 
 [Ejemplo: 01-listas.gh](./01-listas.gh)
 
+Podemos obtener uno o más elementos de una lista si conocemos sus índices.
+
+![Extraer elementoa](./figuras/02-extraer-elementos.png)
+
+[Ejemplo: 02-extraer-elementos.gh](./02-extraer-elementos.gh)
+
 [Ejercicios »](./ejercicios)
 
 [Volver »](..)
