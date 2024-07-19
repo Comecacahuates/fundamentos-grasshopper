@@ -1,4 +1,4 @@
-# Fundamentos de diseño computacional con Grasshopper
+# Fundamentos de diseño paramétrico con Grasshopper
 
 ## 1. Introducción
 
