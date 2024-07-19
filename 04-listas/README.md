@@ -12,4 +12,6 @@ geométricos.
 
 [Lección 4: Manipulación de listas »](./04-manipulacion)
 
+[Lección 5: Combinación de listas »](./05-combinacion)
+
 [Volver »](..)
