@@ -37,20 +37,80 @@ Líneas tangentes internas entre círculos.
 
 [Ejemplo: 05-lineas-tangentes-internas.gh](./05-lineas-tangentes-internas.gh)
 
-## Círculo
+## Círculos
 
-### Círculo desde plano base y radio
+### Círculo desde radio
 
-![Círculo desde plano base y radio](./figuras/03-circulo-base-radio.png)
+Círculo desde plano base y radio.
+
+![Círculo desde plano base y radio](./figuras/06-circulo-base-radio.png)
 
 [Ejemplo: 06-circulo-base-radio.gh](./06-circulo-base-radio.gh)
 
+Círculo desde centro, vector normal y radio.
+
+![Círculo desde centro, vector normal y radio](./figuras/07-circulo-cnr.png)
+
+[Ejemplo: 07-circulo-cnr.gh](./07-circulo-cnr.gh)
+
 ### Círculo desde tres puntos
 
-![Círculo desde tres puntos](./figuras/04-circulo-tres-puntos.png)
+![Círculo desde tres puntos](./figuras/08-circulo-tres-puntos.png)
 
-[Ejemplo: 04-circulo-tres-puntos.gh](./04-circulo-tres-puntos.gh)
+[Ejemplo: 08-circulo-tres-puntos.gh](./08-circulo-tres-puntos.gh)
 
-[Ejercicios »](./ejercicios)
+## Arcos
+
+### Arco desde plano base, radio y ángulo
+
+![Arco desde plano base, radio y ángulo](./figuras/09-arco-plano-radio-angulo.png)
+
+[Ejemplo: 09-arco-plano-radio-angulo.gh](./09-arco-plano-radio-angulo.gh)
+
+### Arco desde tres puntos
+
+![Arco desde tres puntos](./figuras/10-arco-tres-puntos.png)
+
+[Ejemplo: 10-arco-tres-puntos.gh](./10-arco-tres-puntos.gh)
+
+### Arco desde inicio, final y dirección
+
+![Arco desde inicio, final y dirección](./figuras/11-arco-sed.png)
+
+[Ejemplo: 11-arco-sed.gh](./11-arco-sed.gh)
+
+## Rectángulos
+
+### Rectángulo desde plano base y dominios
+
+![Rectángulo desde plano base y dominios](./figuras/12-rectangulo-plano-dominios.png)
+
+[Ejemplo: 12-rectangulo-plano-dominios.gh](./12-rectangulo-plano-dominios.gh)
+
+### Rectángulo desde tres puntos
+
+![Rectángulo desde tres puntos](./figuras/13-rectangulo-tres-puntos.png)
+
+[Ejemplo: 13-rectangulo-tres-puntos.gh](./13-rectangulo-tres-puntos.gh)
+
+### Rectángulo desde dos puntos
+
+![Rectángulo desde dos puntos](./figuras/14-rectangulo-dos-puntos.png)
+
+[Ejemplo: 14-rectangulo-dos-puntos.gh](./14-rectangulo-dos-puntos.gh)
+
+## Polígonos
+
+### Polígono desde plano base, radio y número de lados
+
+![Polígono desde plano base, radio y número de lados](./figuras/15-poligono-plano-radio-lados.png)
+
+[Ejemplo: 15-poligono-plano-radio-lados.gh](./15-poligono-plano-radio-lados.gh)
+
+### Polígono desde arista, plano y número de lados
+
+![Polígono desde arista, plano y número de lados](./figuras/16-poligono-arista-plano-lados.png)
+
+[Ejemplo: 16-poligono-arista-plano-lados.gh](./16-poligono-arista-plano-lados.gh)
 
 [Volver »](..)
