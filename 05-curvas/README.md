@@ -6,7 +6,7 @@ para extraer datos de ellas.
 
 [Lección 1: Curvas primitivas »](./01-primitivas)
 
-[Lección 2: Splines »](./02-splines)
+[Lección 2: Curvas de forma libre »](./02-forma-libre)
 
 [Lección 3: Evaluación de curvas »](./03-evaluacion)
 
