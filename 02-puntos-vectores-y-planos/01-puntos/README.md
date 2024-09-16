@@ -15,6 +15,8 @@ $$P = (x, y, z)$$
 - $y$: distancia al eje $Y$
 - $z$: distancia al eje $Z$
 
+![Punto con coordenadas cartesianas](./figuras/01-coordenadas-cartesianas.png)
+
 [Ejemplo: 01-coordenadas-cartesianas.gh](./01-coordenadas-cartesianas.gh)
 
 ## Coordenadas polares
@@ -23,6 +25,8 @@ $$P = (x, y, z)$$
 - $xy$: ángulo en plano $XY$
 - $z$: ángulo de elevación hacia el eje $Z$
 
+![Punto con coordenadas polares](./figuras/02-coordenadas-polares.png)
+
 [Ejemplo: 02-coordenadas-polares.gh](./02-coordenadas-polares.gh)
 
 ## Coordenadas cilíndricas
@@ -30,6 +34,8 @@ $$P = (x, y, z)$$
 - $r$: radio del cilindro
 - $a$: ángulo en plano $XY$
 - $e$: elevación en el eje $Z$
+
+![Punto con coordenadas cilíndricas](./figuras/03-coordenadas-cilindricas.png)
 
 [Ejemplo: 03-coordenadas-cilindricas.gh](./03-coordenadas-cilindricas.gh)
 
