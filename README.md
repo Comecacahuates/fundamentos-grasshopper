@@ -1,5 +1,9 @@
 # Fundamentos de diseño paramétrico con Grasshopper
 
+El objetivo del curso es aprender a crear objetos 3D paramétricos
+con Grasshopper mediante la definición de relaciones lógicas
+y matemáticas entre datos y objetos geométricos.
+
 ## 1. Introducción
 
 El objetivo es conocer la interfaz gráfica de Rhino y Grasshopper,
