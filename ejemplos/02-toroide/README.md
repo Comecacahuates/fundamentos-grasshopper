@@ -44,12 +44,16 @@ y lo usamos como base para el círculo.
 
 ![Orientación de la sección del toroide](./figuras/07-toroide.png)
 
-Ahora podemos crear una superficie de revolución alrededor del eje Z
-con esta sección. Para esto, necesitamos crear una línea que servirá como
-eje de revolución.
+Ahora podemos crear un arreglo polar de la sección para obtener la forma
+general del toroide.
 
 ![Eje de revolución](./figuras/08-toroide.png)
 
-Con la sección y el eje de revolución, podemos crear la superficie.
+Con el arreglo de las secciones, creamos una superficie de transición.
 
 ![Toroide](./figuras/09-toroide.png)
+
+Modificamos las opciones de la superficie de transición para crear una
+superficie cerrada.
+
+![Toroide](./figuras/10-toroide.png)
