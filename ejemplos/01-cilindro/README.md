@@ -1,4 +1,4 @@
-# Crear un cilíndro
+# Cilíndro
 
 Para crear un objeto, debemos determinar qué **parámetros** lo caracterizan.
 En el caso de un cilíndro, serían su **longitud** y su **radio**.
