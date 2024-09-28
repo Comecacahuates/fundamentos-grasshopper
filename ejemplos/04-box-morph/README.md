@@ -68,3 +68,5 @@ Ya que tenemos el patrón, la caja de referencia y las cajas de destino,
 podemos colocar el patrón en cada una.
 
 ![Repetición del patrón](./figuras/13-box-morph.png)
+
+[Volver »](..)

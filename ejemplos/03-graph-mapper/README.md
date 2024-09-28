@@ -79,3 +79,5 @@ solo tenemos que modificar el dominio de salida.
 Ahora podemos crear una superficie de transición con los círculos.
 
 ![Superficie](./figuras/13-graph-mapper.png)
+
+[Volver »](..)

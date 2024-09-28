@@ -57,3 +57,5 @@ Modificamos las opciones de la superficie de transición para crear una
 superficie cerrada.
 
 ![Toroide](./figuras/10-toroide.png)
+
+[Volver »](..)
