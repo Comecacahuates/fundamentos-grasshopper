@@ -43,3 +43,5 @@ Las líneas verticales las podemos crear fácilmente
 con estas dos listas de puntos.
 
 ![Líneas verticales](./figuras/06-armadura-1.png)
+
+[Volver »](..)

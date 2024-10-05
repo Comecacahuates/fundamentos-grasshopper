@@ -33,3 +33,5 @@
 ![Superficie plana](./figuras/06-superficie-plana.png)
 
 [Ejemplo: 06-superficie-plana.gh](./06-superficie-plana.gh)
+
+[Volver »](..)
