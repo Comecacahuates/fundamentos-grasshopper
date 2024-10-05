@@ -3,11 +3,18 @@
 Contamos con diferentes maneras de crear objetos distribuidos a lo largo
 de una curva.
 
-## Dividir curva en segmentos
+## Dividir en segmentos de igual longitud
 
-Podemos crear puntos a lo largo de una curva distribuidos en segmentos
-de la misma longitud.
+Podemos dividir una curva en una cantidad de segmentos iguales.
 
-![Dividir curva en segmentos](./figuras/01-dividir-curva.png)
+![Dividir curva en segmentos iguales](./figuras/01-division-segmentos-iguales.png)
 
-[Ejemplo: 01-dividir-curva.gh](./01-dividir-curva.gh)
+[Ejemplo: 01-division-segmentos-iguales.gh](./01-division-segmentos-iguales.gh)
+
+## Dividir por longitud de segmentos
+
+Otra manera de dividir una curva es en segmentos de una longitud especificada.
+
+![Dividir curva por longitud](./figuras/02-division-por-longitud-de-segmentos.png)
+
+[Ejemplo: 02-division-por-longitud-de-segmentos.gh](./02-division-por-longitud-de-segmentos.gh)
