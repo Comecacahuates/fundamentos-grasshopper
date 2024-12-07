@@ -8,8 +8,10 @@
 
 - [4. Atractores »](./04-atractores)
 
-- [4. Box morph »](./05-box-morph)
+- [5. Box morph »](./05-box-morph)
 
-- [5. Armadura »](./06-armadura-1)
+- [6. Armadura »](./06-armadura-1)
+
+- [9. Estructura »](./09-estructura)
 
 [Volver »](..)
