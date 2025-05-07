@@ -12,6 +12,8 @@
 
 - [6. Armadura »](./06-armadura-1)
 
+- [7. Análisis de ángulo de desmoldeo »](./07-desmoldeo)
+
 - [9. Estructura »](./09-estructura)
 
 [Volver »](..)
